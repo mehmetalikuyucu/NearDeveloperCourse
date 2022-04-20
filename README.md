@@ -1,3 +1,9 @@
+In this project, we wrote static and parameterized functions in Near contract. We got two different outputs from these functions. These are string and string array.
+Some screenshots:
+![Ekran Görüntüsü (17)](https://user-images.githubusercontent.com/83474388/164167349-6af0a788-1a9b-4206-9500-2a840c2c17aa.png)
+![Ekran Görüntüsü (18)](https://user-images.githubusercontent.com/83474388/164167398-95f6563a-c61e-423c-b99b-379b8073eff4.png)
+![Ekran Görüntüsü (19)](https://user-images.githubusercontent.com/83474388/164167411-7f922b72-7d51-46b5-a5af-bafa4d014c3b.png)
+
 # `near-sdk-as` Starter Kit
 
 This is a good project to use as a starting point for your AssemblyScript project.
